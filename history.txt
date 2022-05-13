@@ -1,0 +1,474 @@
+    1  ls
+    2  clear
+    3  mkdir /d/kivygui
+    4  cd /d/kivygui/
+    5  ls
+    6  clear
+    7  python -m venv virt
+    8  ls
+    9  source virt/Scripts/activate
+   10  clear
+   11  pip freeze
+   12   clear
+   13  python -m pip install "kivy[base] @ https://github.com/kivy/kivy/archive/master.zip"
+   14  D:\kivygui\virt\Scripts\python.exe -m pip
+   15   install --upgrade pip
+   16  install --help
+   17  clear
+   18  python -m pip install kivy[base] kivy_examples
+   19  D:\kivygui\virt\Scripts\python.exe -m pip install --upgrade pip
+   20   -m pip install --upgrade
+   21  python.exe -m pip install --upgrade pip
+   22  cd
+   23  cd
+   24  cd
+   25  clear
+   26  ls
+   27  sudo git clone https://github.com/kivymd/KivyMD.git
+   28  python -m pip install C:\Kivy-1.9.1.dev-cp27-none-win_amd64.whl
+   29  python -m pip install --upgrade pip
+   30  clear
+   31  python -m pip install C:\Kivy-1.9.1.dev-cp27-none-win_amd64.whl
+   32  clear
+   33  git clone git://github.com/kivy/kivy.git
+   34  python -m pip install "kivy[base] @ https://github.com/kivy/kivy/archive/master.zip"
+   35  clear
+   36  ls
+   37  clear
+   38  git config --global user.name "216273150@tut4life.ac.za"
+   39  git config --global user.name "Thulani Malaza"
+   40  git config --global user.email "Tmalaza429@gmail.com"
+   41  cd JPMC-tech-task-1
+   42  dir
+   43  python server.py
+   44  git clone https://github.com/insidesherpa/JPMC-tech-task-1.git
+   45  git clone https://github.com/insidesherpa/JPMC-tech-task-1-py3.git
+   46  cd JPMC-tech-task-1
+   47  dr
+   48  dir
+   49  python -V
+   50  python -V
+   51  cd JPMC-tech-task-1-py3
+   52  dir
+   53  python3 server3.py
+   54  exit
+   55  cd JPMC-tech-task-1-py3
+   56  dir
+   57  python server3.py
+   58  python3 server3.py
+   59  cd JPMC-tech-task-1-py3
+   60  python3 server3.py
+   61  dir
+   62  python server3.py
+   63  cd JPMC-tech-task-1-py3
+   64  python3 server3.py
+   65  cd JPMC-tech-task-1-py3
+   66  python3 server3.py
+   67  dir
+   68  python server3.py
+   69  python39 server3.py
+   70  python --version
+   71  pip --version
+   72  python -c "print('Hello, world'}"
+   73  python -c "print('Hello, world')"
+   74  cd JPMC-tech-task-1
+   75  dir
+   76  python server.py
+   77  cd JPMC-tech-task-
+   78  cd JPMC-tech-task-1
+   79  python
+   80  python client.py
+   81  cd JPMC-tech-task-1-py3
+   82  dir
+   83  python server3.py
+   84  cd \\
+   85  python get-pip.py
+   86  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+   87  cd JPMC-tech-task-1-py3
+   88  cd /users/thulani
+   89  cls
+   90  cd ~/JPMC-tech-task-1-py3
+   91  python server3.py
+   92  pip install python-dateutil
+   93  dc C:\program files\python39\python.exe -m pip install --uograde
+   94  dc C:\program files\python39\python.exe -m pip install --uograde pip
+   95  dc C:\program files\python39pip install --upgrade
+   96  cd JPMC-tech-task-1-1py3
+   97  cd JPMC-tech-task-1-py3
+   98  dir
+   99  python server3.py
+  100  cd JPMC-tech-task-1-py3
+  101  dir
+  102  python client3.py
+  103  cd JPMC-tech-task-1
+  104  dir
+  105  python client.py
+  106  mkdir git-basic-exercises
+  107  cd
+  108  ls -a
+  109  git init
+  110  ls -a
+  111  git status
+  112  q
+  113  sudo apt-get install git
+  114  cd git-basic-exercises
+  115  ls -a
+  116  git init
+  117  ls -a
+  118  git status
+  119  touch README.md
+  120  ls -a
+  121  git status
+  122  git log
+  123  git add README.md
+  124  git status
+  125  git rm --cached README.md
+  126  git status
+  127  git add README.md
+  128  git status
+  129  git commit -m "initial commit"
+  130  git log
+  131  q
+  132  nano README.md
+  133  cat README.md 
+  134  git status
+  135  git commit -a
+  136  ls -a
+  137  cd git-basic-exercises
+  138  ls
+  139  ls -a
+  140  git status
+  141  git add .
+  142  git commit -m "Second commit"
+  143  git add
+  144  mkdir git-basic-exercises
+  145  cd git-basic-exercises
+  146  ls -a
+  147  git init
+  148  ls -a
+  149  git status
+  150  touch README.md
+  151  ls -a
+  152  git status
+  153  git log
+  154  git add
+  155  git add README.md
+  156  git status
+  157  git commit -m "initial commit"
+  158  git log
+  159  nano README.md
+  160  cat README.md
+  161  git status
+  162  git commit -m "second commit"
+  163  git add README.md
+  164  git commit -m "second commit"
+  165  nano README.md
+  166  cat README.md
+  167  git status
+  168  git add README.md
+  169  git commit -m "third commit"
+  170  git log
+  171  git checkout fa9e8a5917ef1fea9a156122dc400f53672b0bbe
+  172  cat README.md
+  173  git checkout main
+  174  git checkout  c3e094a4e9ae5bb83fe666584b2195c946c7046c
+  175  cat README.md
+  176  git branch
+  177  git branch milkshake-flavours
+  178  git branch
+  179  cd milkshake-flavours
+  180  git branch
+  181  git checkout milkshake-flavours
+  182  git branch
+  183  nano milkshakes.md
+  184  git status
+  185  git add milkshakes.md
+  186  git commit -m "added initial flavours"
+  187  git log
+  188  git branch
+  189  git checkout master
+  190  git log
+  191  git branch history
+  192  git branch
+  193  git switch history
+  194  history > history.txt
+  195  ls -a
+  196  git add history.txt
+  197  git commit -m "added history"
+  198  git log
+  199  git branch
+  200  git checkout milkshake-flavours
+  201  git log
+  202  ls -a
+  203  nano README.md
+  204  git add README.md
+  205  git commit -m "random readme changes"
+  206  git checkout history
+  207  ls -a
+  208  cat README.md
+  209  rm README.md
+  210  echo "booya" > README.md
+  211  ls -a
+  212  git add README.md
+  213  git commit -m "rewrote readme"
+  214  git checkout main
+  215  git checkout master
+  216  ls
+  217  git log
+  218  git checkout milkshake-flavours
+  219  ls
+  220  git log
+  221  git checkout history
+  222  ls
+  223  git log
+  224  git checkout master
+  225  git merge milkshake-flavours
+  226  ls
+  227  git log
+  228  git merge history
+  229  git status
+  230  git add README.md
+  231  git merge history
+  232  git commit
+  233  cd git-basic-exercises
+  234  git branch
+  235  git add README.md
+  236  git commit -m "Updated file"
+  237  git log
+  238  git checkout history
+  239  git log
+  240  git checkout milkshake-flavours
+  241  git log
+  242  git checkout master
+  243  ls -a
+  244  git checkout history
+  245  git merge master
+  246  git log
+  247  git checkout master
+  248  git remote add origin https://github.com/ThusTech/git-basic-exercises.git
+  249  git branch -m master
+  250  git push -u origin master
+  251  git git remote add origin https://github.com/ThusTech/git-basic-exercises.git
+  252  git remote add origin https://github.com/ThusTech/git-basic-exercises.git
+  253  git push -u original master
+  254  git push -u origin master
+  255  git branch -M master
+  256  git push -u origin master
+  257  git remote add origin https://github.com/ThusTech/git-basic-exercises.git
+  258  git push -u origin main
+  259  git push -u origin master
+  260  ls -a
+  261  cd git-basic-exercises
+  262  git branch
+  263  git checkout milkshake-flavours
+  264  git log
+  265  git checkout master
+  266  git log
+  267  git remote add origin https://github.com/ThusTech/git-basic-exercises.git
+  268  git branch -M main
+  269  git push -u origin main
+  270  git checkout history
+  271  git push
+  272  git push --set-upstream origin history
+  273  git checkout milkshake-flavours
+  274  git push
+  275  git push --set-upstream origin milkshake-flavours
+  276  git checkout main
+  277  cd ../
+  278  cd git-basic-exercises
+  279  git checkout main
+  280  git merge milkshake-flavours
+  281  git status
+  282  ls
+  283  git merge history
+  284  git status
+  285  git checkout history
+  286  git merge main
+  287  git status
+  288  git log
+  289  cd ../
+  290  mkdir git-basic-exercises
+  291  cd git-basic-exercises
+  292  ls -a
+  293  git init
+  294  ls -a
+  295  git status
+  296  touch README.md
+  297  ls -a
+  298  git status
+  299  git log
+  300  git add .
+  301  git status
+  302  git commit -m "initial commit"
+  303  git log
+  304  nano README.md
+  305  cat README.md
+  306  git status
+  307  git add .
+  308  git commit -m "second commit"
+  309  nano README.md
+  310  git status
+  311  git add .
+  312  git status
+  313  git commit -m "third commit"
+  314  git log
+  315  git branch milkshake-flavours
+  316  git checkout milkshake-flavours
+  317  nano milkshakes.md
+  318  git status
+  319  git add .
+  320  git status
+  321  git commit -m "added initial flavours"
+  322  git checkout history
+  323  git checkout master
+  324  git branch history
+  325  git branch --list
+  326  git checkout history
+  327  git log
+  328  history > history.txt
+  329  git status
+  330  git add .
+  331  git status
+  332  git commit -m "added history"
+  333  git log
+  334  ls -a
+  335  nano README.md
+  336  git status
+  337  git add .
+  338  git status
+  339  git commit -m "random readme changes"
+  340  git log
+  341  rm README.md
+  342  echo "booya" > README.md
+  343  ls -a
+  344  cat README.md
+  345  git status
+  346  git add .
+  347  git status
+  348  git commit -m "rewrote readme"
+  349  git checkout master
+  350  ls
+  351  git log
+  352  git checkout milkshake-flavours
+  353  ls
+  354  git log
+  355  nano README.md
+  356  git status
+  357  git add .
+  358  git commit -m "random readme changes"
+  359  git log
+  360  git checkout history
+  361  ls
+  362  git log
+  363  git checkout 6b852ae02263cb670529ba597a824c5ac68dbdf0
+  364  rm README.md
+  365  git checkout history
+  366  ls
+  367  git log
+  368  cat README.md
+  369  git checkout master
+  370  git merge milkshake-flavours
+  371  git status
+  372  ls
+  373  cat README.md
+  374  git merge history
+  375  git status
+  376  git add .
+  377  git commit -m "Merge conflict resolved"
+  378  ls
+  379  cat README.md
+  380  git status
+  381  git merge history
+  382  git checkout history
+  383  git merge master
+  384  ls
+  385  cat README.md
+  386  git checkout master
+  387  git remote add origin https://github.com/ThusTech/git-basic-exercises.git
+  388  git branch -M master
+  389  git push -u origin master
+  390  git checkout history
+  391  git push
+  392  git push --set-upstream origin history
+  393  git checkout milkshake-flavours
+  394  git push
+  395  git push --set-upstream origin milkshake-flavours
+  396  git checkout master
+  397  cd ../
+  398  git clone https://github.com/Umuzi-org/a-repo-to-clone
+  399  cd a-repo-to-clone
+  400  git branch
+  401  git log
+  402  git branch -a
+  403  git checkout a-branch-with-a-few-commits
+  404  git remove -v
+  405  git remote -v
+  406  cd ../
+  407  cd git-basic-exercises
+  408  git log
+  409  cd git-basic-exercises
+  410  touch ignore-me.db
+  411  ls
+  412  git status
+  413  git add .
+  414  git status
+  415  nano .gitignore
+  416  git status
+  417  git add .
+  418  git status
+  419  mkdir large-directory-that-should-be-local-only
+  420  cd large-directory-that-should-be-local-only
+  421  touch readme.md
+  422  ls
+  423  nano readme.md
+  424  cd ...
+  425  cd ..
+  426  git status
+  427  git add .
+  428  ls
+  429  nano .gitignore
+  430  git status
+  431  git add .
+  432  git commit -m "added .gitignore"
+  433  git push
+  434  mkdir git-basic-exercises
+  435  cd git-basic-exercises
+  436  ls a
+  437  ls -a
+  438  git init
+  439  ls -a
+  440  git status
+  441  clear
+  442  touch README.md
+  443  git status
+  444  git add .
+  445  git status
+  446  git commit -m "initial commit"
+  447  git log
+  448  nano README.md
+  449  cat README.md
+  450  git status
+  451  git add .
+  452  clear
+  453  git status
+  454  git commit -m "second commit"
+  455  nano README.md
+  456  git status
+  457  git add .
+  458  clear
+  459  git status
+  460  git commit -m "third commit"
+  461  git log
+  462  git branch
+  463  git branch milkshake-flavours
+  464  git checkout milkshake-flavours
+  465  nano milkshakes.md
+  466  git status
+  467  git add .
+  468  git commit -m "added initial flavours"
+  469  git log
+  470  git checkout master
+  471  git branch history
+  472  git checkout history
+  473  git log
+  474  history > history.txt
